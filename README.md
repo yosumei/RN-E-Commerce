@@ -1,3 +1,14 @@
+
+![ScreenRecording2024-03-29at21 26 15-ezgif com-video-to-gif-converter-3](https://github.com/yosumei/RN-E-Commerce/assets/147663700/f76a91ff-70af-41b4-94fc-ab7980276812)
+
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
